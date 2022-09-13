@@ -1,0 +1,13 @@
+.generations {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.region {
+  width: 160px;
+  height: 160px;
+}
+
+h4 {
+  text-align: end;
+}
