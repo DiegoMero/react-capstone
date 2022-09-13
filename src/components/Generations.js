@@ -38,17 +38,17 @@ const Generations = () => (
         <h3>5th Generation</h3>
         <h4>Teselia</h4>
       </Link>
-      <Link to="/Generations6">
+      <Link to="/Generation6">
         <img src={kalos} alt="Kanto" className="region" />
         <h3>6th Generation</h3>
         <h4>Kalos</h4>
       </Link>
-      <Link to="/Generations7">
+      <Link to="/Generation7">
         <img src={alola} alt="Kanto" className="region" />
         <h3>7th Generation</h3>
         <h4>Alola</h4>
       </Link>
-      <Link to="/Generations8">
+      <Link to="/Generation8">
         <img src={galar} alt="Kanto" className="region" />
         <h3>8th Generation</h3>
         <h4>Galar</h4>
@@ -58,17 +58,3 @@ const Generations = () => (
 );
 
 export default Generations;
-
-/* const pokemonList = useSelector((state) => state.pokemon);
-  const dispatch = useDispatch();
-  useEffect(() => {
-    if (!pokemonList.length) dispatch(loadPokemon1G());
-  }, []);
-
-  return (
-    <ul>
-      {pokemonList.map((pokemon) => (
-        <li key={uuidv4()}>{pokemon.pokemonName}</li>
-      ))}
-    </ul>
-  ); */

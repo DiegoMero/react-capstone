@@ -1,7 +1,10 @@
-h2 {
+header {
   font-size: 25px;
-  color: yellow;
   background-color: blue;
   margin: 0;
   padding: 15px;
+}
+
+.home {
+  color: yellow;
 }

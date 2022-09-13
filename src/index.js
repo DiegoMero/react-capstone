@@ -16,6 +16,6 @@ root.render(
   </React.StrictMode>,
 );
 
-/* fetch('https://pokeapi.co/api/v2/generation/1/')
+fetch('https://pokeapi.co/api/v2/generation/8/')
   .then((response) => response.json())
-  .then((json) => console.log(json)); */
+  .then((json) => console.log(json));
