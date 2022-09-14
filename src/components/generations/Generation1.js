@@ -1,14 +1,16 @@
 import { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { v4 as uuidv4 } from 'uuid';
-import { loadPokemon1G } from '../../redux/pokemon/pokemon';
+import PropTypes from 'prop-types';
+import { loadPokemon } from '../../redux/pokemon/pokemon';
 
-const Generation1 = () => {
+const Generation1 = (props) => {
+  const { id } = props;
   const pokemonList = useSelector((state) => state.pokemon);
   const dispatch = useDispatch();
   useEffect(() => {
-    dispatch(loadPokemon1G());
-  }, []);
+    dispatch(loadPokemon(id));
+  }, [dispatch, id]);
 
   return (
     <div>
@@ -20,6 +22,10 @@ const Generation1 = () => {
       </ul>
     </div>
   );
+};
+
+Generation1.propTypes = {
+  id: PropTypes.string.isRequired,
 };
 
 export default Generation1;

@@ -17,14 +17,14 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Generations />} />
-        <Route path="/Generation1" element={<Generation1 />} />
-        <Route path="/Generation2" element={<Generation2 />} />
-        <Route path="/Generation3" element={<Generation3 />} />
-        <Route path="/Generation4" element={<Generation4 />} />
-        <Route path="/Generation5" element={<Generation5 />} />
-        <Route path="/Generation6" element={<Generation6 />} />
-        <Route path="/Generation7" element={<Generation7 />} />
-        <Route path="/Generation8" element={<Generation8 />} />
+        <Route path="/Generation1" element={<Generation1 id="1" />} />
+        <Route path="/Generation2" element={<Generation2 id="2" />} />
+        <Route path="/Generation3" element={<Generation3 id="3" />} />
+        <Route path="/Generation4" element={<Generation4 id="4" />} />
+        <Route path="/Generation5" element={<Generation5 id="5" />} />
+        <Route path="/Generation6" element={<Generation6 id="6" />} />
+        <Route path="/Generation7" element={<Generation7 id="7" />} />
+        <Route path="/Generation8" element={<Generation8 id="8" />} />
       </Routes>
     </div>
   );
