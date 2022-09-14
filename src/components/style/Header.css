@@ -1,10 +1,10 @@
 header {
   font-size: 25px;
-  background-color: blue;
+  background-color: rgb(221, 29, 103);
   margin: 0;
   padding: 15px;
 }
 
 .home {
-  color: yellow;
+  color: white;
 }

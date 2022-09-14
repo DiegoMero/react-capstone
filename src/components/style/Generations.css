@@ -8,10 +8,67 @@
   height: 160px;
 }
 
-h4 {
-  text-align: end;
+.region-stats {
+  background-color: rgb(221, 29, 103);
+  color: white;
+  margin: 0;
+}
+
+.title {
+  background-color: rgb(216, 81, 132);
+  margin: 0;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.pokemon-species {
+  text-align: center;
+  background-color: rgb(216, 81, 132);
+  margin: 0;
+  padding: 10px;
+  color: white;
 }
 
 a {
   text-decoration: none;
+}
+
+.kanto-link {
+  background-color: rgb(221, 29, 103);
+}
+
+.johto-link {
+  background-color: rgb(216, 81, 132);
+}
+
+.hoenn-link {
+  background-color: rgb(216, 81, 132);
+}
+
+.sinnoh-link {
+  background-color: rgb(221, 29, 103);
+}
+
+.teselia-link {
+  background-color: rgb(221, 29, 103);
+}
+
+.kalos-link {
+  background-color: rgb(216, 81, 132);
+}
+
+.alola-link {
+  background-color: rgb(216, 81, 132);
+}
+
+.galar-link {
+  background-color: rgb(221, 29, 103);
+}
+
+.region-name {
+  color: white;
+  margin: 0;
+  text-align: end;
+  padding: 5px;
 }
