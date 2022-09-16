@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://deft-tartufo-1f1b37.netlify.app/)
 
 ## Getting Started
 
@@ -49,6 +49,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - We got inspired by Microverse templates.
+- This template was inspired by Nelson Sakwa, and is under Creative Commons License.
 
 ## 📝 License
 
