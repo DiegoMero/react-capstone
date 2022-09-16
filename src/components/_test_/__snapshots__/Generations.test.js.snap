@@ -1,0 +1,504 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot for Header 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="generations-section"
+      >
+        <h1
+          class="title"
+        >
+          Pokemon World
+        </h1>
+        <h2
+          class="pokemon-species"
+        >
+          905 Pokemon Species
+        </h2>
+        <h4
+          class="region-stats"
+        >
+          SPECIES BY REGION
+        </h4>
+        <input
+          id="myInput"
+          placeholder="Search for regions.."
+          type="text"
+        />
+        <ul
+          class="generations"
+        >
+          <li
+            class="region-link1"
+          >
+            <a
+              class="region-link1"
+              href="/Generation1"
+            >
+              <img
+                alt="Kanto"
+                class="region"
+                src="kanto.png"
+              />
+              <h3
+                class="region-name"
+              >
+                KANTO
+              </h3>
+              <h4
+                class="region-name"
+              >
+                -754
+              </h4>
+            </a>
+          </li>
+          <li
+            class="region-link2"
+          >
+            <a
+              class="region-link2"
+              href="/Generation2"
+            >
+              <img
+                alt="Kanto"
+                class="region"
+                src="johto.png"
+              />
+              <h3
+                class="region-name"
+              >
+                JOHTO
+              </h3>
+              <h4
+                class="region-name"
+              >
+                -805
+              </h4>
+            </a>
+          </li>
+          <li
+            class="region-link3"
+          >
+            <a
+              class="region-link3"
+              href="/Generation3"
+            >
+              <img
+                alt="Kanto"
+                class="region"
+                src="hoenn.png"
+              />
+              <h3
+                class="region-name"
+              >
+                HOENN
+              </h3>
+              <h4
+                class="region-name"
+              >
+                -770
+              </h4>
+            </a>
+          </li>
+          <li
+            class="region-link4"
+          >
+            <a
+              class="region-link4"
+              href="/Generation4"
+            >
+              <img
+                alt="Kanto"
+                class="region"
+                src="sinnoh.png"
+              />
+              <h3
+                class="region-name"
+              >
+                SINNOH
+              </h3>
+              <h4
+                class="region-name"
+              >
+                -798
+              </h4>
+            </a>
+          </li>
+          <li
+            class="region-link5"
+          >
+            <a
+              class="region-link5"
+              href="/Generation5"
+            >
+              <img
+                alt="Kanto"
+                class="region"
+                src="teselia.png"
+              />
+              <h3
+                class="region-name"
+              >
+                TESELIA
+              </h3>
+              <h4
+                class="region-name"
+              >
+                -749
+              </h4>
+            </a>
+          </li>
+          <li
+            class="region-link6"
+          >
+            <a
+              class="region-link6"
+              href="/Generation6"
+            >
+              <img
+                alt="Kanto"
+                class="region"
+                src="kalos.png"
+              />
+              <h3
+                class="region-name"
+              >
+                KALOS
+              </h3>
+              <h4
+                class="region-name"
+              >
+                -833
+              </h4>
+            </a>
+          </li>
+          <li
+            class="region-link7"
+          >
+            <a
+              class="region-link7"
+              href="/Generation7"
+            >
+              <img
+                alt="Kanto"
+                class="region"
+                src="alola.png"
+              />
+              <h3
+                class="region-name"
+              >
+                ALOLA
+              </h3>
+              <h4
+                class="region-name"
+              >
+                -817
+              </h4>
+            </a>
+          </li>
+          <li
+            class="region-link8"
+          >
+            <a
+              class="region-link8"
+              href="/Generation8"
+            >
+              <img
+                alt="Kanto"
+                class="region"
+                src="galar.png"
+              />
+              <h3
+                class="region-name"
+              >
+                GALAR
+              </h3>
+              <h4
+                class="region-name"
+              >
+                -809
+              </h4>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="generations-section"
+    >
+      <h1
+        class="title"
+      >
+        Pokemon World
+      </h1>
+      <h2
+        class="pokemon-species"
+      >
+        905 Pokemon Species
+      </h2>
+      <h4
+        class="region-stats"
+      >
+        SPECIES BY REGION
+      </h4>
+      <input
+        id="myInput"
+        placeholder="Search for regions.."
+        type="text"
+      />
+      <ul
+        class="generations"
+      >
+        <li
+          class="region-link1"
+        >
+          <a
+            class="region-link1"
+            href="/Generation1"
+          >
+            <img
+              alt="Kanto"
+              class="region"
+              src="kanto.png"
+            />
+            <h3
+              class="region-name"
+            >
+              KANTO
+            </h3>
+            <h4
+              class="region-name"
+            >
+              -754
+            </h4>
+          </a>
+        </li>
+        <li
+          class="region-link2"
+        >
+          <a
+            class="region-link2"
+            href="/Generation2"
+          >
+            <img
+              alt="Kanto"
+              class="region"
+              src="johto.png"
+            />
+            <h3
+              class="region-name"
+            >
+              JOHTO
+            </h3>
+            <h4
+              class="region-name"
+            >
+              -805
+            </h4>
+          </a>
+        </li>
+        <li
+          class="region-link3"
+        >
+          <a
+            class="region-link3"
+            href="/Generation3"
+          >
+            <img
+              alt="Kanto"
+              class="region"
+              src="hoenn.png"
+            />
+            <h3
+              class="region-name"
+            >
+              HOENN
+            </h3>
+            <h4
+              class="region-name"
+            >
+              -770
+            </h4>
+          </a>
+        </li>
+        <li
+          class="region-link4"
+        >
+          <a
+            class="region-link4"
+            href="/Generation4"
+          >
+            <img
+              alt="Kanto"
+              class="region"
+              src="sinnoh.png"
+            />
+            <h3
+              class="region-name"
+            >
+              SINNOH
+            </h3>
+            <h4
+              class="region-name"
+            >
+              -798
+            </h4>
+          </a>
+        </li>
+        <li
+          class="region-link5"
+        >
+          <a
+            class="region-link5"
+            href="/Generation5"
+          >
+            <img
+              alt="Kanto"
+              class="region"
+              src="teselia.png"
+            />
+            <h3
+              class="region-name"
+            >
+              TESELIA
+            </h3>
+            <h4
+              class="region-name"
+            >
+              -749
+            </h4>
+          </a>
+        </li>
+        <li
+          class="region-link6"
+        >
+          <a
+            class="region-link6"
+            href="/Generation6"
+          >
+            <img
+              alt="Kanto"
+              class="region"
+              src="kalos.png"
+            />
+            <h3
+              class="region-name"
+            >
+              KALOS
+            </h3>
+            <h4
+              class="region-name"
+            >
+              -833
+            </h4>
+          </a>
+        </li>
+        <li
+          class="region-link7"
+        >
+          <a
+            class="region-link7"
+            href="/Generation7"
+          >
+            <img
+              alt="Kanto"
+              class="region"
+              src="alola.png"
+            />
+            <h3
+              class="region-name"
+            >
+              ALOLA
+            </h3>
+            <h4
+              class="region-name"
+            >
+              -817
+            </h4>
+          </a>
+        </li>
+        <li
+          class="region-link8"
+        >
+          <a
+            class="region-link8"
+            href="/Generation8"
+          >
+            <img
+              alt="Kanto"
+              class="region"
+              src="galar.png"
+            />
+            <h3
+              class="region-name"
+            >
+              GALAR
+            </h3>
+            <h4
+              class="region-name"
+            >
+              -809
+            </h4>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

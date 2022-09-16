@@ -1,0 +1,83 @@
+.generations {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  list-style: none;
+}
+
+.region {
+  width: 160px;
+  height: 160px;
+}
+
+.region-stats {
+  background-color: rgb(221, 29, 103);
+  color: white;
+  margin: 0;
+}
+
+.title {
+  background-color: rgb(216, 81, 132);
+  margin: 0;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.pokemon-species {
+  text-align: center;
+  background-color: rgb(216, 81, 132);
+  margin: 0;
+  padding: 10px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.region-link1 {
+  background-color: rgb(221, 29, 103);
+}
+
+.region-link2 {
+  background-color: rgb(216, 81, 132);
+}
+
+.region-link3 {
+  background-color: rgb(216, 81, 132);
+}
+
+.region-link4 {
+  background-color: rgb(221, 29, 103);
+}
+
+.region-link5 {
+  background-color: rgb(221, 29, 103);
+}
+
+.region-link6 {
+  background-color: rgb(216, 81, 132);
+}
+
+.region-link7 {
+  background-color: rgb(216, 81, 132);
+}
+
+.region-link8 {
+  background-color: rgb(221, 29, 103);
+}
+
+#myInput {
+  width: 100%;
+  border: 0;
+  padding: 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.region-name {
+  color: white;
+  margin: 0;
+  text-align: end;
+  padding: 5px;
+}
