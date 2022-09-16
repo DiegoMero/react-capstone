@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# React Group Capstone Project
+# React Capstone Project
 
-> Space Travelers' Hub, an app where you can book rockets and join selected space missions.
+> This Pokemon World app, allows user to filter each pokemon species by region.
 
 ## Built With
 
@@ -48,9 +48,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- We got inspired by Microverse templates.
 - This template was inspired by Nelson Sakwa, and is under Creative Commons License.
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./MIT.md) licensed.<br>
+The characters, scenarios and universe used in this project are created by Nintendo. 
