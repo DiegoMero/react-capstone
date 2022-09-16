@@ -1,0 +1,41 @@
+.region-title {
+  text-align: center;
+  background-color: rgb(216, 81, 132);
+  color: white;
+  margin: 0;
+  padding: 15px;
+}
+
+.species-amount {
+  background-color: rgb(216, 81, 132);
+  text-align: center;
+  color: white;
+  margin: 0;
+  padding-bottom: 5px;
+}
+
+.species-subtitle {
+  background-color: rgb(221, 29, 103);
+  color: white;
+  margin: 0;
+  padding: 2.5px;
+}
+
+.specie-item:nth-child(even) {
+  background-color: rgb(221, 29, 103);
+  color: white;
+  margin: 0;
+  padding: 5px;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+.specie-item:nth-child(odd) {
+  background-color: rgb(216, 81, 132);
+  color: white;
+  margin: 0;
+  padding: 5px;
+}
