@@ -1,6 +1,7 @@
 .generations {
   display: grid;
   grid-template-columns: 50% 50%;
+  list-style: none;
 }
 
 .region {
@@ -34,36 +35,44 @@ a {
   text-decoration: none;
 }
 
-.kanto-link {
+.region-link1 {
   background-color: rgb(221, 29, 103);
 }
 
-.johto-link {
+.region-link2 {
   background-color: rgb(216, 81, 132);
 }
 
-.hoenn-link {
+.region-link3 {
   background-color: rgb(216, 81, 132);
 }
 
-.sinnoh-link {
+.region-link4 {
   background-color: rgb(221, 29, 103);
 }
 
-.teselia-link {
+.region-link5 {
   background-color: rgb(221, 29, 103);
 }
 
-.kalos-link {
+.region-link6 {
   background-color: rgb(216, 81, 132);
 }
 
-.alola-link {
+.region-link7 {
   background-color: rgb(216, 81, 132);
 }
 
-.galar-link {
+.region-link8 {
   background-color: rgb(221, 29, 103);
+}
+
+#myInput {
+  width: 100%;
+  border: 0;
+  padding: 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .region-name {
